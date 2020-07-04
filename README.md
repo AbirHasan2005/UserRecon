@@ -15,7 +15,7 @@ This is useful if you are running an investigation to determine the usage of the
 1. Colourized Texts,
 2. Animations,
 3. Warnings to work properly,
-4. New UserRecon Logo(Better then unmodified Logo),
+4. New UserRecon Logo(Better than unmodified Logo),
 5. Bugs Cleared,
 6. Improved,
 7. More easy to use.
