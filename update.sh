@@ -2,7 +2,6 @@
 # Update Script for shellphish.sh v1.2-beta
 # Script created by @AbirHasan2005
 
-trap 'printf "\n";partial;exit 1' 2
 
 dependencies() {
 
