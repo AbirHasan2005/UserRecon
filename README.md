@@ -31,7 +31,7 @@ bash userrecon.sh
 
 ### For any kind of help and feedback feel free to message on my Telegram Group:
 ```
-http://t.me/groupnahidhasanabir
+http://t.me/linux_repo
 ```
 ### For Updates join Telegram Channel:
 ```
