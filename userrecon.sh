@@ -82,6 +82,19 @@ elif [[ $check_insta == *'0'* ]]; then
 printf "\e[1;91mNot Found!\e[0m\n"
 fi
 
+## Telegram
+
+printf "\e[1;77m[\e[0m\e[1;92m+\e[0m\e[1;77m] Telegram: \e[0m"
+check_tele=$(curl -s "https://t.me/$username" -L -H "Accept-Language: en" | grep -o 'not found'; echo $?)
+
+
+if [[ $check_face == *'1'* ]]; then
+printf "\e[1;92m Found!\e[0m https://t.me/%s\n" $username
+printf "https://t.me/%s\n" $username >> $username.txt
+elif [[ $check_face == *'0'* ]]; then
+printf "\e[1;91mNot Found!\e[0m\n"
+fi
+
 ## Facebook
 
 printf "\e[1;77m[\e[0m\e[1;92m+\e[0m\e[1;77m] Facebook: \e[0m"

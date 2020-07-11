@@ -21,6 +21,7 @@ cd UserRecon
 chmod +x userrecon.sh
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash userrecon.sh
+cd ..
 
 }
 
