@@ -41,3 +41,5 @@ http://t.me/teletechstore
 ```
 https://teletechstore.blogspot.com
 ```
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AbirHasan2005?locale.x=en_US)
