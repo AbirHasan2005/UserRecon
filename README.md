@@ -1,6 +1,7 @@
-# UserRecon v1.0-mod
+# UserRecon v2.3-MOD
 ## First coded by @linux_choice
 ## Modded by @AbirHasan2005
+## Thanks to Unknown Hacker for reporting minor bugs!
 ## Twitter: https://twitter.com/AbirHasan2005
 ## Instagram: https://instagram.com/AbirHasan2005
 ## Telegram: http://t.me/AbirHasan2005
